@@ -15,7 +15,9 @@ class ThingTest {
 
     @Test
     void it_should_not_fail() {
+        var expected = 42;
+
         assertThat(42)
-                .isEqualTo(42);
+                .isEqualTo(expected);
     }
 }
