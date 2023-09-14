@@ -10,7 +10,7 @@
 
 4. Go for the Kata: https://kata-log.rocks/mars-rover-kata
 
-5. Lets go...
+5. Run 'mvn clean verify' to start
 
 
 
