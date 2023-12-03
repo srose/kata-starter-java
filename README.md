@@ -1,4 +1,4 @@
-# Mars Rover Kata
+# "Schools" of test driven development (TDD)
 
 0. Maven version => 3 and Java version >= 17, installed (eg. via https://sdkman.io/)
 
@@ -8,7 +8,7 @@
 
 3. Remove unwanted deps and upgrade everything else to the latest version
 
-4. Go for the Kata: https://kata-log.rocks/mars-rover-kata
+4. Go for the Kata and "School" of choice
 
 5. Run 'mvn clean verify' to start
 
