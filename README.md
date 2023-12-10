@@ -8,9 +8,11 @@
 
 4. Remove unwanted deps and upgrade everything else to the latest version
 
-5. Go for the Kata and "School" of choice
+5. Go for the Kata and "School" of choice.
 
 6. Run 'mvn clean verify' to start
+
+7. Kata for Today: Mars rover
 
 
 
