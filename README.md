@@ -1,6 +1,6 @@
 # "Schools" of test driven development (TDD)
 
-1. Maven version => 3 and Java version >= 17, installed (eg. via https://sdkman.io/)
+1. Maven version => 3.9 and Java version >= 21, installed (eg. via https://sdkman.io/)
 
 2. This project was initialized by a copy from https://github.com/swkBerlin/kata-bootstraps/tree/master/java/junit5.
 
